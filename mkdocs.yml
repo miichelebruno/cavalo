@@ -1,0 +1,6 @@
+site_name: Cavalo
+site_author: Michele Bruno
+site_dir: /var/www/html
+theme: 
+  name: material
+  language: pt
